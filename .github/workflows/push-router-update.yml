@@ -1,0 +1,22 @@
+name: notify-router
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - 'domains.txt'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compute file blob SHA
+        run: echo "FILE_SHA=$(git rev-parse HEAD:domains.txt)" >> $GITHUB_ENV
+
+      - name: Notify ntfy
+        run: |
+          curl -fsS \
+            -H "Title: domains updated" \
+            -d "${FILE_SHA}" \
+            "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}"
