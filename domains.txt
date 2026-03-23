@@ -28,4 +28,4 @@ taxamo.com
 canny.io
 nopaystation.com
 api.hetzner.cloud
-vpn.maximkatz.com
+maximkatz.com
