@@ -29,6 +29,7 @@ canny.io
 nopaystation.com
 api.hetzner.cloud
 maximkatz.com
+buzzsprout.com
 
 # google ai
 deepmind.com
