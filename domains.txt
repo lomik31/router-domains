@@ -31,7 +31,8 @@ api.hetzner.cloud
 maximkatz.com
 buzzsprout.com
 returnyoutubedislike.com
-ae.com
+hostbrr.com
+cloudflare.com
 
 # google ai
 deepmind.com
