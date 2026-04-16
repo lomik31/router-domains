@@ -33,6 +33,7 @@ buzzsprout.com
 returnyoutubedislike.com
 hostbrr.com
 cloudflare.com
+firecrawl.dev
 
 # google ai
 deepmind.com
