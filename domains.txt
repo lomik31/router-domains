@@ -35,6 +35,7 @@ hostbrr.com
 cloudflare.com
 firecrawl.dev
 private.coffee
+instatus.com
 
 # google ai
 deepmind.com
