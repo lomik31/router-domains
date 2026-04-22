@@ -36,6 +36,7 @@ cloudflare.com
 firecrawl.dev
 private.coffee
 instatus.com
+play.maylan.ru
 
 # google ai
 deepmind.com
