@@ -37,6 +37,7 @@ firecrawl.dev
 private.coffee
 instatus.com
 play.maylan.ru
+packwiz.infra.link
 
 # google ai
 deepmind.com
