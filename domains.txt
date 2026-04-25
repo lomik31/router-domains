@@ -38,6 +38,7 @@ private.coffee
 instatus.com
 play.maylan.ru
 packwiz.infra.link
+maylan.vanilla.men
 
 # google ai
 deepmind.com
