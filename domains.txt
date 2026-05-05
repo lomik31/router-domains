@@ -39,6 +39,7 @@ instatus.com
 packwiz.infra.link
 onidel.com
 dark.shopping
+delta.chat
 
 # google ai
 deepmind.com
