@@ -38,6 +38,7 @@ private.coffee
 instatus.com
 packwiz.infra.link
 onidel.com
+dark.shopping
 
 # google ai
 deepmind.com
