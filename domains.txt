@@ -1,7 +1,3 @@
-copilot-proxy.githubusercontent.com
-githubcopilot.com
-api.github.com
-porno365.pics
 node-postgres.com
 stripe.com
 listenbrainz.org
@@ -12,6 +8,7 @@ badoocdn.com
 badoo.app
 wise.com
 mathworks.com
+porno365.pics
 decrypt.day
 speedtest.net
 voicemaster.xyz
@@ -40,6 +37,13 @@ packwiz.infra.link
 onidel.com
 dark.shopping
 delta.chat
+
+# github
+ghcr.io
+githubusercontent.com
+githubapp.com
+githubassets.com
+githubcopilot.com
 
 # google ai
 deepmind.com
