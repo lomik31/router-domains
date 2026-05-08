@@ -44,6 +44,7 @@ githubusercontent.com
 githubapp.com
 githubassets.com
 githubcopilot.com
+github.com
 
 # google ai
 deepmind.com
