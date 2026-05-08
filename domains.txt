@@ -37,6 +37,7 @@ packwiz.infra.link
 onidel.com
 dark.shopping
 delta.chat
+play.maylan.ru
 
 # github
 ghcr.io
