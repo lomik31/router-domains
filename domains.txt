@@ -38,6 +38,7 @@ onidel.com
 dark.shopping
 delta.chat
 play.maylan.ru
+godaddy.com
 
 # github
 ghcr.io
