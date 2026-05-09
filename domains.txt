@@ -39,6 +39,7 @@ dark.shopping
 delta.chat
 play.maylan.ru
 godaddy.com
+img6.wsimg.com
 
 # github
 ghcr.io
