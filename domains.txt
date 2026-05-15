@@ -42,6 +42,7 @@ godaddy.com
 img6.wsimg.com
 iina.io
 spectraip.net
+st-hosting.com
 
 # github
 ghcr.io
