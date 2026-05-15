@@ -41,6 +41,7 @@ play.maylan.ru
 godaddy.com
 img6.wsimg.com
 iina.io
+spectraip.net
 
 # github
 ghcr.io
