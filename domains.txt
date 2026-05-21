@@ -1,4 +1,3 @@
-node-postgres.com
 stripe.com
 listenbrainz.org
 bumble.com
@@ -8,40 +7,26 @@ badoocdn.com
 badoo.app
 wise.com
 mathworks.com
-decrypt.day
 speedtest.net
-voicemaster.xyz
-sponsor.ajay.app
-curseforge.com
-computercraft.cc
 sqlite.org
 navigraph.com
-prismlauncher.org
 mc.hypixel.net
-tiles.immich.cloud
 wgcdn.co
 taxamo.com
 canny.io
-nopaystation.com
 api.hetzner.cloud
 maximkatz.com
-buzzsprout.com
 returnyoutubedislike.com
-hostbrr.com
 cloudflare.com
 firecrawl.dev
 private.coffee
 instatus.com
 packwiz.infra.link
-onidel.com
 dark.shopping
 delta.chat
 play.maylan.ru
 godaddy.com
 img6.wsimg.com
-iina.io
-spectraip.net
-st-hosting.com
 
 # github
 ghcr.io
