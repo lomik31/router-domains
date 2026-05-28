@@ -27,6 +27,7 @@ delta.chat
 play.maylan.ru
 godaddy.com
 img6.wsimg.com
+browserleaks.com
 
 # github
 ghcr.io
