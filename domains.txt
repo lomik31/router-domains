@@ -28,6 +28,7 @@ play.maylan.ru
 godaddy.com
 img6.wsimg.com
 browserleaks.com
+meta.wotblitz.com
 
 # github
 ghcr.io
