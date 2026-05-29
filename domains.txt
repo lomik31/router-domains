@@ -36,6 +36,7 @@ wotblitz-gc.gcdn.co
 gamegrids.net
 game-assets.wgcbt.net
 wotblitz.xmpp.wargaming.net
+compute.amazonaws.com
 
 # github
 ghcr.io
