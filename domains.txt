@@ -33,6 +33,8 @@ eu-central-1.amazonaws.com
 eu-central-2.amazonaws.com
 eu-central-3.amazonaws.com
 wotblitz-gc.gcdn.co
+gamegrids.net
+game-assets.wgcbt.net
 
 # github
 ghcr.io
