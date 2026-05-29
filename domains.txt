@@ -28,13 +28,6 @@ play.maylan.ru
 godaddy.com
 img6.wsimg.com
 browserleaks.com
-meta.wotblitz.com
-eu-central-1.amazonaws.com
-eu-central-2.amazonaws.com
-eu-central-3.amazonaws.com
-wotblitz-gc.gcdn.co
-gamegrids.net
-game-assets.wgcbt.net
 wotblitz.xmpp.wargaming.net
 compute.amazonaws.com
 
