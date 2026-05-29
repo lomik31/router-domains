@@ -30,6 +30,7 @@ img6.wsimg.com
 browserleaks.com
 wotblitz.xmpp.wargaming.net
 compute.amazonaws.com
+meta.wotblitz.com
 
 # github
 ghcr.io
