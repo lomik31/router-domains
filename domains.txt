@@ -33,6 +33,7 @@ compute.amazonaws.com
 meta.wotblitz.com
 wotblitz-gc.gcdn.co
 game-assets.wgcbt.net
+songport.link
 
 # github
 ghcr.io
