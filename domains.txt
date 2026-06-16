@@ -35,6 +35,7 @@ wotblitz-gc.gcdn.co
 game-assets.wgcbt.net
 songport.link
 versus.com
+friendshiplamps.com
 
 # github
 ghcr.io
