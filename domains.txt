@@ -36,6 +36,7 @@ game-assets.wgcbt.net
 songport.link
 versus.com
 friendshiplamps.com
+gitlawb.com
 
 # github
 ghcr.io
