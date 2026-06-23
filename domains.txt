@@ -37,6 +37,7 @@ songport.link
 versus.com
 friendshiplamps.com
 gitlawb.com
+mcstacker.net
 
 # github
 ghcr.io
