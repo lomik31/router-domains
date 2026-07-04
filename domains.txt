@@ -38,6 +38,7 @@ versus.com
 friendshiplamps.com
 gitlawb.com
 mcstacker.net
+auto.ria.com
 
 # github
 ghcr.io
