@@ -39,6 +39,7 @@ friendshiplamps.com
 gitlawb.com
 mcstacker.net
 auto.ria.com
+skullgirlsmobile.com
 
 # github
 ghcr.io
