@@ -40,7 +40,7 @@ gitlawb.com
 mcstacker.net
 auto.ria.com
 skullgirlsmobile.com
-libertymart.com
+libertymart.net
 
 # github
 ghcr.io
