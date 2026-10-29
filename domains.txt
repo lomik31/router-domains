@@ -41,6 +41,7 @@ mcstacker.net
 auto.ria.com
 skullgirlsmobile.com
 libertymart.net
+i.scdn.co
 
 # github
 ghcr.io
