@@ -43,6 +43,13 @@ skullgirlsmobile.com
 libertymart.net
 i.scdn.co
 
+roaster.wotb.app
+api.gamegrids.net
+auth.gamegrids.net
+nts.gamegrids.net
+eu.wotblitz.com
+tmsis.wotblitz.eu
+
 # github
 ghcr.io
 githubusercontent.com
