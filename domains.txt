@@ -44,6 +44,7 @@ libertymart.net
 i.scdn.co
 vidb365.com
 community-vortex.shapez2.com
+shapez2hub.com
 
 roaster.wotb.app
 api.gamegrids.net
